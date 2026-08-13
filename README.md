@@ -9,3 +9,8 @@ git config --global user.email "bcisternap15@gmail.com"
 
 git add .
 git commit -m "listo comentario"
+
+```bash
+git add README.md
+git commit -m "Arreglando el formato del README"
+git push
